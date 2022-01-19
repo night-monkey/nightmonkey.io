@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'ok',
     title: 'bạn chắc chưa 😙',
     desc: 'thật luôn :)) ',
-    btnYes: 'Vẫn vào à.thôi đc rồi...',
+    btnYes: 'Đéo',
     btnNo: 'Vào tiếp',
     question:'vào tới đây rồi mà chưa khôn à <3',
     btnReply: 'vào đây mà xem <3',
